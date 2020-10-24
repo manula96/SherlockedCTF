@@ -6,3 +6,14 @@
 "format": "encoded"
 }
 }
+
+
+{
+0: 200,
+"success": 1,
+"data": {
+"code": "WTB1aEfdsvFDVffdXIwN3kwdXIwTTc=",
+"format": "encoded"
+}
+}
+
